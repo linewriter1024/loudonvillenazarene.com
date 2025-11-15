@@ -297,6 +297,9 @@ textarea:focus {
   .nav-toggle {
     display: inline-block;
   }
+  .brand {
+    margin-left: 0.5rem;
+  }
   .nav-links {
     position: absolute;
     right: 1rem;
